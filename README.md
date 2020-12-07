@@ -6,7 +6,7 @@
 
 **Description:** Earlier cryptography was effectively synonymous with encryption but nowadays cryptography is mainly based on mathematical theory and computer science practice.
 
-[Basic Crypto](https://inteng-storage.s3.amazonaws.com/img/iea/bM6AM9bM67/sizes/cyber-attack-abstract-access_resize_md.jpg)
+![Basic Crypto](https://inteng-storage.s3.amazonaws.com/img/iea/bM6AM9bM67/sizes/cyber-attack-abstract-access_resize_md.jpg)
 
 Modern cryptography concerns with:
 
