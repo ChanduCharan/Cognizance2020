@@ -20,7 +20,7 @@ Modern cryptography concerns with:
 
 **Non-repudiation** - Sender cannot deny his/her intentions in the transmission of the information at a later stage
 
-[Non-repudiation](https://www.google.com/imgres?imgurl=http%3A%2F%2Fblog.finjan.com%2Fwp-content%2Fuploads%2F2017%2F02%2FNon-repudiation.jpg&imgrefurl=https%3A%2F%2Fblog.finjan.com%2Fwhat-is-non-repudiation%2F&tbnid=-DOnSqwqXfKvoM&vet=12ahUKEwjF0tqopbztAhUq2-AKHYqjBeIQMygSegUIARDNAQ..i&docid=hQXWtZCU_Js-vM&w=450&h=219&q=Non-repudiation&hl=en&ved=2ahUKEwjF0tqopbztAhUq2-AKHYqjBeIQMygSegUIARDNAQ)
+![Non-repudiation](https://www.google.com/imgres?imgurl=http%3A%2F%2Fblog.finjan.com%2Fwp-content%2Fuploads%2F2017%2F02%2FNon-repudiation.jpg&imgrefurl=https%3A%2F%2Fblog.finjan.com%2Fwhat-is-non-repudiation%2F&tbnid=-DOnSqwqXfKvoM&vet=12ahUKEwjF0tqopbztAhUq2-AKHYqjBeIQMygSegUIARDNAQ..i&docid=hQXWtZCU_Js-vM&w=450&h=219&q=Non-repudiation&hl=en&ved=2ahUKEwjF0tqopbztAhUq2-AKHYqjBeIQMygSegUIARDNAQ)
 
 **Authentication** - Sender and receiver can confirm each
 
