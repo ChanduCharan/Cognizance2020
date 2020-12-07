@@ -8,7 +8,7 @@
 
 ![Basic Crypto](https://inteng-storage.s3.amazonaws.com/img/iea/bM6AM9bM67/sizes/cyber-attack-abstract-access_resize_md.jpg)
 
-Modern cryptography concerns with:
+*Modern cryptography concerns with:*
 
 1. **Confidentiality** - Information cannot be understood by anyone
 
