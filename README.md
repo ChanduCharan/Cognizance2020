@@ -24,7 +24,7 @@ Modern cryptography concerns with:
 
 **Authentication** - Sender and receiver can confirm each
 
-[Authentication](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.loginradius.com%2Fblog%2Fwp-content%2Fuploads%2Fsites%2F4%2F2019%2F10%2FPasswordless-Authentication-main-image-1024x576.png&imgrefurl=https%3A%2F%2Fwww.loginradius.com%2Fblog%2F2019%2F10%2Fpasswordless-authentication-the-future-of-identity-and-security%2F&tbnid=8khAOJAeVWB2DM&vet=12ahUKEwjH6r3BpbztAhUKORQKHbBeAfUQMygOegUIARDpAQ..i&docid=ShiQtDvHRBGkeM&w=1024&h=576&q=Authentication&hl=en&ved=2ahUKEwjH6r3BpbztAhUKORQKHbBeAfUQMygOegUIARDpAQ)
+![Authentication](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.loginradius.com%2Fblog%2Fwp-content%2Fuploads%2Fsites%2F4%2F2019%2F10%2FPasswordless-Authentication-main-image-1024x576.png&imgrefurl=https%3A%2F%2Fwww.loginradius.com%2Fblog%2F2019%2F10%2Fpasswordless-authentication-the-future-of-identity-and-security%2F&tbnid=8khAOJAeVWB2DM&vet=12ahUKEwjH6r3BpbztAhUKORQKHbBeAfUQMygOegUIARDpAQ..i&docid=ShiQtDvHRBGkeM&w=1024&h=576&q=Authentication&hl=en&ved=2ahUKEwjH6r3BpbztAhUKORQKHbBeAfUQMygOegUIARDpAQ)
 
 *Cryptography is used in many applications like banking transactions cards, computer passwords, and e- commerce transactions.*
 
