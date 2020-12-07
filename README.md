@@ -16,7 +16,7 @@ Modern cryptography concerns with:
 
 **Integrity** - Information cannot be altered.
 
-[Integrity](https://www.google.com/imgres?imgurl=https%3A%2F%2Fs3.amazonaws.com%2Fmentoring.redesign%2Fs3fs-public%2Fintergrity-sign.jpg&imgrefurl=https%3A%2F%2Fwww.score.org%2Fblog%2Fwhy-integrity-ultimate-employee-perk&tbnid=uqTc1Xa8qUi4hM&vet=12ahUKEwiEqImEpbztAhVL0OAKHSsJAcYQMygBegUIARDRAQ..i&docid=YEWN_7pms3_loM&w=725&h=482&q=integrity&hl=en&ved=2ahUKEwiEqImEpbztAhVL0OAKHSsJAcYQMygBegUIARDRAQ)
+![Integrity](https://www.google.com/imgres?imgurl=https%3A%2F%2Fs3.amazonaws.com%2Fmentoring.redesign%2Fs3fs-public%2Fintergrity-sign.jpg&imgrefurl=https%3A%2F%2Fwww.score.org%2Fblog%2Fwhy-integrity-ultimate-employee-perk&tbnid=uqTc1Xa8qUi4hM&vet=12ahUKEwiEqImEpbztAhVL0OAKHSsJAcYQMygBegUIARDRAQ..i&docid=YEWN_7pms3_loM&w=725&h=482&q=integrity&hl=en&ved=2ahUKEwiEqImEpbztAhVL0OAKHSsJAcYQMygBegUIARDRAQ)
 
 **Non-repudiation** - Sender cannot deny his/her intentions in the transmission of the information at a later stage
 
