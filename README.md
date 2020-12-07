@@ -12,7 +12,7 @@ Modern cryptography concerns with:
 
 **Confidentiality** - Information cannot be understood by anyone
 
-[Confidentiality](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.ursinus.edu%2Flive%2Fimage%2Fgid%2F81%2Fwidth%2F1260%2Fheight%2F630%2Fcrop%2F1%2F4810_sample-confidentiality-agreement.rev.1417640752.jpg&imgrefurl=https%3A%2F%2Fwww.ursinus.edu%2Foffices%2Finformation-technology%2Finformation-usage-policies%2Fconfidentiality-agreement%2F&tbnid=ktS6x362D61YCM&vet=12ahUKEwivoYWSpLztAhWk2OAKHcjYCloQMygOegUIARDrAQ..i&docid=rolhThx5ptR0aM&w=800&h=400&q=confidentiality&hl=en&ved=2ahUKEwivoYWSpLztAhWk2OAKHcjYCloQMygOegUIARDrAQ)
+![Confidentiality](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.ursinus.edu%2Flive%2Fimage%2Fgid%2F81%2Fwidth%2F1260%2Fheight%2F630%2Fcrop%2F1%2F4810_sample-confidentiality-agreement.rev.1417640752.jpg&imgrefurl=https%3A%2F%2Fwww.ursinus.edu%2Foffices%2Finformation-technology%2Finformation-usage-policies%2Fconfidentiality-agreement%2F&tbnid=ktS6x362D61YCM&vet=12ahUKEwivoYWSpLztAhWk2OAKHcjYCloQMygOegUIARDrAQ..i&docid=rolhThx5ptR0aM&w=800&h=400&q=confidentiality&hl=en&ved=2ahUKEwivoYWSpLztAhWk2OAKHcjYCloQMygOegUIARDrAQ)
 
 **Integrity** - Information cannot be altered.
 
