@@ -12,7 +12,7 @@ Modern cryptography concerns with:
 
 1. **Confidentiality** - Information cannot be understood by anyone
 
-![Confidentiality](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.ursinus.edu%2Flive%2Fimage%2Fgid%2F81%2Fwidth%2F1260%2Fheight%2F630%2Fcrop%2F1%2F4810_sample-confidentiality-agreement.rev.1417640752.jpg&imgrefurl=https%3A%2F%2Fwww.ursinus.edu%2Foffices%2Finformation-technology%2Finformation-usage-policies%2Fconfidentiality-agreement%2F&tbnid=ktS6x362D61YCM&vet=12ahUKEwivoYWSpLztAhWk2OAKHcjYCloQMygOegUIARDrAQ..i&docid=rolhThx5ptR0aM&w=800&h=400&q=confidentiality&hl=en&ved=2ahUKEwivoYWSpLztAhWk2OAKHcjYCloQMygOegUIARDrAQ)
+![Confidentiality](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fmax%2F1000%2F1*3Dh8XRirCn48CsRp3m0uyA.jpeg&imgrefurl=https%3A%2F%2Fmedium.com%2F%40legalcalls%2Fquick-guide-to-maintaining-confidentiality-online-ada43fe52f27&tbnid=bn4cx79qpJJoQM&vet=12ahUKEwjA4drPqLztAhVG66QKHb4TBE8QMygBegUIARDRAQ..i&docid=wT45gA5eQd-2PM&w=1000&h=667&q=confidentiality&ved=2ahUKEwjA4drPqLztAhVG66QKHb4TBE8QMygBegUIARDRAQ)
 
 2. **Integrity** - Information cannot be altered.
 
